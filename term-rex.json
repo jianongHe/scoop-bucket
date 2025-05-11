@@ -1,12 +1,12 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jianongHe/Term-Rex/releases/download/v0.1.7/term-rex_0.1.7_windows_amd64.zip",
+            "url": "https://github.com/jianongHe/Term-Rex/releases/download/v0.1.8/term-rex_0.1.8_windows_amd64.zip",
             "bin": [
                 "term-rex.exe"
             ],
-            "hash": "b71cdfacee3c9897755e16bf881faffbb8a8230fb92dffacc5b6e0cffa4e0d68"
+            "hash": "b8c4ff9bd34c1f0d565c36dde4a60199109368b39e6e896f076a044fb2484b39"
         }
     },
     "homepage": "https://github.com/jianongHe/term-rex",
