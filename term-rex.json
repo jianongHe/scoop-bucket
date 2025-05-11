@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jianongHe/Term-Rex/releases/download/v0.1.0/term-rex_0.1.0_windows_amd64.zip",
+            "bin": [
+                "term-rex.exe"
+            ],
+            "hash": "c826fb9e07d7b75239fd5efa71bfda9fb00d47057ec9ecea1c4f84406955d318"
+        }
+    },
+    "homepage": "https://github.com/jianongHe/term-rex",
+    "license": "MIT",
+    "description": "A terminal-based dinosaur runner game inspired by Chrome's offline game"
+}
